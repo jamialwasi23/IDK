@@ -1,0 +1,22 @@
+{
+  "name": "idk-database",
+  "version": "1.0.0",
+  "description": "A simple JavaScript database module linked to GitHub repository jamialwasi23/IDK",
+  "main": "database.js",
+  "scripts": {
+    "example": "node example.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamialwasi23/IDK.git"
+  },
+  "keywords": [
+    "database",
+    "javascript",
+    "in-memory",
+    "crud"
+  ],
+  "author": "jamialwasi23",
+  "license": "MIT"
+}
