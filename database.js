@@ -5,7 +5,7 @@
  * A lightweight in-memory database system with basic CRUD operations
  */
 
-class Database { 
+class Database {}
   constructor(repositoryUrl = 'https://github.com/jamialwasi23/IDK') {
     this.data = {};
     this.repositoryUrl = repositoryUrl;
@@ -13,7 +13,7 @@ class Database {
     this.metadata = {
       created: new Date(),
       repo: repositoryUrl,
-      version: '1.0.0'
+      version: '2.3.0'
     };
   }
 
