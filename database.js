@@ -3,7 +3,7 @@
  * GitHub Repository: https://github.com/jamialwasi23/IDK
  * 
  * A lightweight in-memory database system with basic CRUD operations
- */      
+ */
 
 class Database {}
   constructor(repositoryUrl = 'https://github.com/jamialwasi23/IDK') {
