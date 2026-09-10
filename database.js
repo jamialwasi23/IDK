@@ -13,7 +13,7 @@ class Database {}
     this.metadata = {
       created: new Date(),
       repo: repositoryUrl,
-      version: '2.3.0'
+      version: '2.3.9'
     };
   }
 
